@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashcoelho&layout=compact&langs_count=7&theme=react" />
 </div>
 <br>
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️ Tech Stack⚒️</h2>
 
 <div align="center"> 
   <img alt="Ash-figma" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />       

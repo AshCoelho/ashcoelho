@@ -25,6 +25,19 @@
   <img alt="Ash-vscode" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img  alt="Ash-HTML" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  alt="Ash-CSS" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="Ash-Js" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-           
+  <img  alt="Ash-Js" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">       
+</div>
+<br>
+<div align="center">
+  <h2>📱 Contact 📱 <h2>
+  <img alt="Ash-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Ash-discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img alt="Ash-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="Ash-linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    
+   
+    
+</div>" />  
+
+  
 </div>

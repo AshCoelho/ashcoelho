@@ -34,7 +34,7 @@
     <a href="mailto:ashlakarina02@gmail.com."><img alt="Ash-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/channels/@me" ><img alt="Ash-discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.instagram.com/ashcoelho_" ><img alt="Ash-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="www.linkedin.com/in/ashlacoelho" ><img alt="Ash-linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/ashlacoelho" ><img alt="Ash-linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
    
     

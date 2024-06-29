@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1> Olá amigo(a), bem vindo(a) ao meu perfil! </h1>
+<h1>👋 Olá amigo(a), bem vindo(a) ao meu perfil! </h1>
 
 🖥️ Estudando Desenvolvimento Web. 
 <br>

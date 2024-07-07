@@ -13,8 +13,8 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/ashcoelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashcoelho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashcoelho&layout=compact&langs_count=7&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashcoelho&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashcoelho&layout=compact&langs_count=7&theme=pink" />
 </div>
 <br>
 <h2 align="center" >⚒️ Tech Stack⚒️</h2>

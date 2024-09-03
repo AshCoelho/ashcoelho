@@ -1,6 +1,6 @@
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=techno&pause=1000&color=F70AAA&width=435&lines=Oii+Dev%2C+seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=techno&pause=1000&color=F70AAA&width=435&lines=Ol%C3%A1+Dev%2C+seja+bem+vindo(a)+ao+meu+perfil!!" alt="Typing SVG" /></a>
 
 🖥️ Estudando Desenvolvimento Web. 
 <br>

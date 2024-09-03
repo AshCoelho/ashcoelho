@@ -9,8 +9,8 @@
   
 <h2 style="margin-right= 2rem">⚡Stats⚡</h2>
 <br>
-
-
+<br>
+<br>
 <div align="center" display="inline-block">
   <a href="https://github.com/ashcoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashcoelho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>

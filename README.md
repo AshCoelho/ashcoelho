@@ -7,7 +7,7 @@
 <br>
 🎓 Acadêmica de Engenharia de Software. 
   
-<h2 style="margin-left= 2rem">⚡Stats⚡</h2>
+<h2 style="margin-right= 2rem">⚡Stats⚡</h2>
 <br>
 
 

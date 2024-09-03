@@ -1,5 +1,5 @@
 
-<div>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=techno&pause=1000&color=F70AAA&width=435&lines=Ol%C3%A1+Dev%2C+seja+bem+vindo(a)+ao+meu+perfil!!" alt="Typing SVG" /></a>
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200"><br>
 
@@ -10,7 +10,6 @@
 <h2>⚡Stats⚡</h2>
 <br>
 
-</div>
 
 <div align="center" display="inline-block">
   <a href="https://github.com/ashcoelho">

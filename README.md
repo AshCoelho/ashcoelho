@@ -5,7 +5,9 @@
 
   🖥️ Estudando Desenvolvimento Web. 
 <br>
-🎓 Acadêmica de Engenharia de Software. 
+  👩🏻‍💻 Estg. de Governança de TI na Pulse-Grupo Mateus. 
+<br>
+  🎓 Acadêmica de Engenharia de Software - UNDB. 
   
 <h2 style="margin-right= 2rem">⚡Stats⚡</h2>
 <br>

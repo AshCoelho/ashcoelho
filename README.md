@@ -5,7 +5,7 @@
 
   🖥️ Estudando Desenvolvimento Web. 
 <br>
-  👩🏻‍💻 Estg. de Governança de TI na Pulse-Grupo Mateus. 
+  👩🏻‍💻 Estg. de Governança de TI - Pulse Grupo Mateus. 
 <br>
   🎓 Acadêmica de Engenharia de Software - UNDB. 
   

@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=techno&pause=1000&color=F70AAA&width=435&lines=Hi%2C+everyone!+I'm+Ashla!;Welcome+to+my+GitHub+profile!;Eae+Dev!Tudo+bem%3F+Me+chamo+Ashla!;Bem-vindo+ao+meu+perfil+no+GitHub!" alt="Typing SVG" /></a>
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200"><br>
 
-  🖥️ Estudando Desenvolvimento Web. 
+  🖥️ Estudando Desenvolvimento Web e Governança de TI. 
 <br>
   👩🏻‍💻 Estg. de Governança de TI - Pulse Grupo Mateus. 
 <br>

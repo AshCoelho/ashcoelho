@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=techno&pause=1000&color=F70AAA&width=435&lines=Hi%2C+everyone!+I'm+Ashla!;Welcome+to+my+GitHub+profile!;Eae+Dev!Tudo+bem%3F+Me+chamo+Ashla!;Bem-vindo+ao+meu+perfil+no+GitHub!" alt="Typing SVG" /></a>
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200"><br>
 
-  🖥️ Estudando Desenvolvimento Web e Governança de TI. 
+  🖥️ Estudando tecnologias web, desenvolvimento de software e práticas de Governança de TI.
 <br>
-  👩🏻‍💻 Estg. de Governança de TI - Pulse Grupo Mateus. 
+  👩🏻‍💻 Estagiária em Governança de TI na Pulse | Grupo Mateus, com foco em processos, conformidade e indicadores. 
 <br>
-  🎓 Acadêmica de Engenharia de Software - UNDB. 
+  🎓 Graduanda em Engenharia de Software - UNDB. 
   
 <h2 style="margin-right= 2rem">⚡GitHub Stats⚡</h2>
 <br>

@@ -7,6 +7,8 @@
 <br>
   👩🏻‍💻 Estagiária em Governança de TI na Pulse | Grupo Mateus, com foco em processos, conformidade e indicadores. 
 <br>
+  👩🏻‍💻 Estagiária em Governança de TI e Desenvolvimento - SEMIT (Secretaria Municipal de Informação e Tecnologia) | Com foco em sistemas web e boas práticas de Governança de TI. 
+  <br>
   🎓 Graduanda em Engenharia de Software - UNDB. 
   
 <h2 style="margin-right= 2rem">⚡GitHub Stats⚡</h2>

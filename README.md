@@ -9,7 +9,7 @@
 <br>
   🎓 Acadêmica de Engenharia de Software - UNDB. 
   
-<h2 style="margin-right= 2rem">⚡Stats⚡</h2>
+<h2 style="margin-right= 2rem">⚡GitHub Stats⚡</h2>
 <br>
 <br>
 <br>

@@ -10,6 +10,7 @@
   👩🏻‍💻 Estagiária em Governança de TI e Desenvolvimento de Sistemas - SEMIT (Secretaria Municipal de Informação e Tecnologia) | Com foco em sistemas web e boas práticas de Governança de TI. 
   <br>
   🎓 Graduanda em Análise e Desenvolvimento de Sistemas - UNDB. 
+   <br>
   🎓 e Gestão da Tecnologia da Informação - Estácio.
    <br>
 

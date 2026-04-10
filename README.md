@@ -9,19 +9,10 @@
 <br>
   👩🏻‍💻 Estagiária em Governança de TI e Desenvolvimento de Sistemas - SEMIT (Secretaria Municipal de Informação e Tecnologia) | Com foco em sistemas web e boas práticas de Governança de TI. 
   <br>
-  🎓 Graduanda em Engenharia de Software - UNDB. 
-  
-<h2 style="margin-right= 2rem">⚡GitHub Stats⚡</h2>
-<br>
-<br>
-<br>
-<div align="center" style="display:inline-block">
-  <a href="https://github.com/ashcoelho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashcoelho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashcoelho&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
-<br>
+  🎓 Graduanda em Análise e Desenvolvimento de Sistemas - UNDB. 
+  🎓 e Gestão da Tecnologia da Informação - Estácio.
+   <br>
+
 <h2 align="center" >⚒️ Tech Stack⚒️</h2>
 
 <div align="center"> 
